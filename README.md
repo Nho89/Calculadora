@@ -39,7 +39,8 @@ Ingrese el primer número: 5
 Ingrese el segundo número: 3
 ✅ Resultado: 8
 ```
-
+## ⚠️ **Caution** ⚠️
+**¡Cuidado!** Ingresar un valor no numérico o intentar realizar una división por cero puede generar errores o resultados inesperados. Asegúrate de proporcionar datos válidos para evitar estos problemas.
 ---
 ## 📚 Estructura del Código
 🛠 **Componentes principales del código:**
