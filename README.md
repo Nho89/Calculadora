@@ -56,7 +56,7 @@ Ingrese el segundo número: 3
 
 ---
 ## 👨‍💻 Autor
-💡 Desarrollado por [Tu Nombre]. 
+💡 Desarrollado por Grupo 5. 
 
 Si te ha gustado este proyecto, ⭐ **dale una estrella** y sígueme para más contenido interesante. 
 
